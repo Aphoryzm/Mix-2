@@ -1,0 +1,116 @@
+@media screen and (max-width: 1440px) {
+    .first {
+        width: 190px;
+    }
+    .firstV {
+        width: 338px;
+    }
+    main {
+        max-width: 1264px;
+    }
+}
+
+@media screen and (max-width: 1280px) {
+    .first {
+        width: 185px;
+    }
+    .firstV {
+        width: 330px;
+    }
+    main {
+        max-width: 1035px;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .first {
+        width: 180px;
+    }
+    .firstV {
+        width: 320px;
+    }
+    main {
+        max-width: 912px;
+    }
+}
+
+@media screen and (max-width: 920px) {
+    .first {
+        width: 175px;
+    }
+    .firstV {
+        width: 310px;
+    }
+    main {
+        max-width: 768px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .first {
+        width: 170px;
+    }
+    .firstV {
+        width: 302px;
+    }
+    main {
+        margin: 0 5%;
+    }
+}
+
+@media screen and (max-width: 580px) {
+    .first {
+        width: 165px;
+    }
+    .firstV {
+        width: 295px;
+    }
+    main {
+        margin: 0 5%;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .first {
+        width: 160px;
+    }
+    .firstV {
+        width: 285px;
+    }
+    main {
+        margin: 0 5%;
+    }
+    .general_st {
+        margin-bottom: 5%;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .first {
+        width: 155px;
+    }
+    .firstV {
+        width: 276px;
+    }
+    main {
+        margin: 0 5%;
+    }
+    .general_st {
+        margin-bottom: 5%;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .first {
+        width: 145px;
+    }
+    .firstV {
+        width: 258px;
+    }
+    main {
+        margin: 0 5%;
+    }
+    .general_st {
+        margin-bottom: 5%;
+    }
+}
