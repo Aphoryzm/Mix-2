@@ -71,6 +71,13 @@
 }
 
 @media screen and (max-width: 425px) {
+    .middlePart .header_button {
+        display: none;
+    }
+    .middlePart .headder_img {
+        width: 25px;
+        display: inline-block;
+    }
     .first {
         width: 160px;
     }
